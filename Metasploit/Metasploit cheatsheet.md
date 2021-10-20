@@ -1,6 +1,3 @@
-# Metasploit For Beginners : Youtube course
-
-
 ## Part 1
 #### Metasploit interfaces :
 1. msfconsole
