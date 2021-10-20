@@ -1,4 +1,4 @@
-### preparer notre interface réseau
+### prepare our network interface
 ```shell
 sudo airmon-ng check kill
 sudo airmon-ng start wlan0
