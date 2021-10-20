@@ -1,0 +1,2 @@
+- create a script that notifies me once a new vulnerability is discovered.
+- data scraping from vulnerability databases such as [cxsecurity](https://cxsecurity.com/cvemap/) 
